@@ -1,2 +1,1 @@
-# prep-coursewhitreadme
-Este es un repositorio de prueba del modulo 2
+este es un repositorio de prueba hecho en github y clonado a mi escritorio local.
